@@ -20,10 +20,10 @@
 	"FirstNative": "max",
         "MainNative": "max",
 	     		
-        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
-        "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
-        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	 "OpenAdmob": "ca-app-pub-3940256099942544/3419835294", 
+        "BannerAdmob": "ca-app-pub-8276813490498362/7513646367",
+        "InterAdmob":    "ca-app-pub-8276813490498362/9487135213",
+        "NativeAdmob": "ca-app-pub-8276813490498362/1856057207",
+	 "OpenAdmob": "ca-app-pub-8276813490498362/9542975538", 
 	     
 	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
@@ -44,7 +44,7 @@
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
         "LinkCpa" : "https://www.google.com/",
 	      
-	 "intersitial_click_counter" : 3
+	 "intersitial_click_counter" : 1
 
 
 		
